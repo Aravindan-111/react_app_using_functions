@@ -1,0 +1,10 @@
+.main_comments_container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  border: 2px solid black;
+  margin-bottom: 1rem;
+  width: 50rem;
+}

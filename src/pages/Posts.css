@@ -1,0 +1,24 @@
+.details_body {
+  display: flex;
+  justify-content: center;
+}
+.details_container {
+  width: 50rem;
+  height: 13rem;
+  border: 2px solid black;
+  margin-bottom: 1rem;
+}
+
+.button_div {
+  display: flex;
+  justify-content: center;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.posts {
+  display: flex;
+  justify-content: center;
+}

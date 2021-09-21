@@ -18,7 +18,7 @@ function Comments({ match }) {
 
   useEffect(() => {
     fetchData();
-  }, []);
+  });
 
   return (
     <div className="main_comments_container">
